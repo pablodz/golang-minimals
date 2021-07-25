@@ -45,6 +45,5 @@ func main() {
 	ReceiveStream(client, &pb.TransactionRequest{
 		From:   from,
 		To:     to,
-		Amount: amount}
-	)
+		Amount: amount})
 }
