@@ -1,0 +1,11 @@
+[{
+        "Id": 1234,
+        "Name": "Name of book",
+        "Author": "Steven Exampler"
+    },
+    {
+        "Id": 1235,
+        "Name": "Name of book",
+        "Author": "Steven Exampler"
+    }
+]
