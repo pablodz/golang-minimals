@@ -25,6 +25,7 @@ require (
 	github.com/revel/pathtree v0.0.0-20140121041023-41257a1839e9 // indirect
 	github.com/revel/revel v1.0.0 // indirect
 	github.com/twinj/uuid v1.0.0 // indirect
+	github.com/urfave/cli v1.22.5
 	github.com/xeonx/timeago v1.0.0-rc4 // indirect
 	google.golang.org/grpc v1.39.0 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
